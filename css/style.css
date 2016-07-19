@@ -1,0 +1,59 @@
+header{
+	background-image: url(cabecera.jpg)
+}
+
+body{
+	background-image: url(fondo2.jpg);
+}
+
+h1{
+	font-family: Impact;
+	text-align: center;
+	color: #2251C9;
+	font-size: 4em;
+	text-decoration: underline;
+	background-color: white;
+	opacity: 0.9;
+}
+h2{
+	color: white;
+	background-color: #7205E0;
+	text-align: center;
+	font-family: century;
+}
+
+h3{
+	color:#51059D;
+	text-align: center;
+	background-color: #E0A905;
+	font-family: tahoma;
+}
+
+p{
+	color: black;
+	font-family: arial Narrow;
+	text-align: center;
+	margin-top: 0;
+	width: 350px;
+	margin:0 auto;
+}
+:link { 
+	font-weight: bold; 
+	text-decoration: underline; 
+	color: #7205E0;
+	font-style: italic;
+	}
+a:visited { 
+	font-weight: bold;
+	text-decoration: none; 
+	color: #7205E0;
+	font-style: italic;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: underline;  
+	color: #7205E0;
+	font-style: italic;
+	}
+abbr {
+	border-bottom: none;
+	}
